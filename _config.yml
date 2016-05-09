@@ -1,6 +1,6 @@
 name: Dale Emasiri
 favicon: null
-layout_spectrum: 0.44128551078028977
+layout_spectrum: 0.25586
 typography_spectrum: 0.47413950599730015
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.7998390051070601
-  lightness: 0.15919232391752303
-  saturation: 0.2298226577695459
-  rhythmicContrast: 0.5653833481483161
+    - '#554a75'
+    - '#020002'
+    - '#701815'
+    - '#ed8d58'
+    - '#b95528'
+  brandStrength: 0.125
+  lightness: 0.5
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
