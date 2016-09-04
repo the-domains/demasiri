@@ -1,4 +1,3 @@
-layout_spectrum: 0.7290610419586301
 typography_spectrum: 0.017192683881148696
 color:
   brandColors:
@@ -15,16 +14,23 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7290610419586301
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Dale Emasiri
+  email: demasiri@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/579ddc57-74ef-4b54-8140-4e2448668454.png
 name: Dale Emasiri
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c008cf1-60b3-4a13-af58-76d35733389b.png
 title: deadbadgr
 description: Grid-Based Ramblings
 purpose: []
